@@ -1,1 +1,3 @@
-# Game heads or tails made in Java only by the console
+# Game heads or tails 
+
+Made with Java without interface. Console only
